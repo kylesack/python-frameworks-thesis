@@ -1,0 +1,3 @@
+Framework: Flask, Repository: pallets/flask, Primary Language: Python
+Framework: Django, Repository: django/django, Primary Language: Python
+Framework: FastAPI, Repository: fastapi/fastapi, Primary Language: Python
